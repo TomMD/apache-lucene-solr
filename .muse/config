@@ -1,0 +1,3 @@
+build = "ant"
+arguments = ["compile"]
+setup = ".muse/setup.sh"

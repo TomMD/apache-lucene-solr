@@ -1,3 +1,4 @@
 build = "ant"
 arguments = ["compile"]
 setup = ".muse/setup.sh"
+jdk11 = true
